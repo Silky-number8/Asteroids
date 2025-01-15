@@ -8,7 +8,7 @@
   <body>
 <p>Neste arquivo estou criando um link para</p>
   <a 
-    href="https//www.mozilla.org/pt-BR/"
+    href="https://www.mozilla.org/pt-BR/"
     title="O melhor navegador para programação"/>
 <p>a página inicial do Mozilla</p>
     <img
