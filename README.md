@@ -8,12 +8,9 @@
   <body>
 <p>Neste arquivo estou criando um link para</p>
   <a 
-    href="https://www.mozilla.org/pt-BR/"
-    title="O melhor navegador para programação"/>
-<p>a página inicial do Mozilla</p>
-    <img
-    src="mozilla.png"
-    alt="A imagem do Mozilla"
+    href="https://www.github.com/Silky-number8/Asteroids/tree/main/links/Index.html/"
+    title="A página inicial do projeto da Sorcha"/>
+<p>a página inicial do projeto da Sorcha</p>
   </a>
   </body>
 </html>
