@@ -8,7 +8,7 @@
   <body>
 <p>Neste arquivo estou criando um link para</p>
   <a 
-    href="https://www.github.com/Silky-number8/Asteroids/tree/main/links/"
+    href="https://www.github.com/Silky-number8/Asteroids/tree/main/Links/"
     title="A página inicial do projeto da Sorcha"/>
 <p>a página inicial do projeto da Sorcha</p>
   </a>
