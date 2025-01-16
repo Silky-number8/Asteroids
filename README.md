@@ -1,3 +1,4 @@
+<h1>Asteroids</h1>
 <!DOCTYPE html>
 <html lang="en-US">
  <head>
@@ -11,7 +12,7 @@
   <li><a href="Projects.html">Sobre o que se trata</a></li>
   <li><a href="Social">Social</a></li>
   </ul>
-   <h1>Página inicial</h1>
+   <h2>Página inicial</h2>
 <p>Seja bem-vinde ao projeto da Sorcha</p>
     <img
     src="Images/Wizard.png"
