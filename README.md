@@ -12,10 +12,7 @@
   <li><a href="Social">Social</a></li>
   </ul>
    <h1>Página inicial</h1>
-<p>Seja bem-vinde ao<a
-    href="Links/Index.html"
-    title="A página inicial do projeto da Sorcha"> projeto da Sorcha</p>
-  </a>
+<p>Seja bem-vinde ao projeto da Sorcha</p>
     <img
     src="Images/Wizard.png"
     title="This one is a wizard"
