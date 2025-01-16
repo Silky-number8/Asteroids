@@ -12,5 +12,6 @@
     title="A página inicial do projeto da Sorcha"/>
 <p>a página inicial do projeto da Sorcha</p>
   </a>
+   <p>Afim de se comunicar comigo? Mande um email para <a href="mailto:sorchagalera@gmail.com">Sorcha</a> :)</p>
   </body>
 </html>
