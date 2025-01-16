@@ -12,7 +12,7 @@
   <li><a href="#Contacts">Endereços para contato</a></li>
   </ul>
    <h2 id="Homepage">Página inicial</h2>
-<p>Seja bem-vinde ao projeto da <a href="https://github.com/Silky-number8">Sorcha</a>.</p>
+<p>Seja bem-vinde ao projeto da <a href="https://github.com/Silky-number8">Sorcha</a>!</p>
     <img
     src="Images/Wizard.png"
     title="This one is a wizard"
