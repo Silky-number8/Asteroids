@@ -6,11 +6,9 @@
   <meta name="viewport" content="widht=device-width">
  </head>
   <body>
-<p>Neste arquivo estou criando um link para</p>
-  <a 
-    href="https://www.github.com/Silky-number8/Asteroids/blob/main/Links/Index.html"
-    title="A página inicial do projeto da Sorcha"
-<p>a página inicial do projeto da Sorcha</p>
+<p>Neste arquivo estou criando um link para a<a
+    href="Links/Index.html"
+    title="A página inicial do projeto da Sorcha"> página inicial do projeto da Sorcha</p>
   </a>
     <img
     src="Images/Wizard.png"
