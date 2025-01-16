@@ -14,7 +14,7 @@
   </a>
    <a 
     <img
-    src="https://github.com/Silky-number8/Asteroids/blob/main/This-one-is-a-wizard.png"
+    src="Asteroids/Images/This one is a wizard.png/"
     alt="Um desenho de um sapo feiticeiro encima de uma casinha de cogumelo"
     width="200"
     heigth="178"/> </a>
