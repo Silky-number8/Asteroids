@@ -8,9 +8,9 @@
   <body>
   <ul>
   <li>Home</li>
-  <li><a href="Pictures.html">Suas fotos</a></li>
-  <li><a href="Projects.html">Sobre o que se trata</a></li>
-  <li><a href="Social">Social</a></li>
+  <li><a href="Links/Pictures.html">Suas fotos</a></li>
+  <li><a href="Links/Projects.html">Sobre o que se trata</a></li>
+  <li><a href="Links/Social">Social</a></li>
   </ul>
    <h2>Página inicial</h2>
 <p>Seja bem-vinde ao projeto da Sorcha</p>
