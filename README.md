@@ -7,10 +7,9 @@
  </head>
   <body>
   <ul>
-  <li>Home</li>
-  <li><a href="Links/Pictures.html">Suas fotos</a></li>
-  <li><a href="Links/Projects.html">Sobre o que se trata</a></li>
-  <li><a href="Links/Social">Social</a></li>
+  <li>Página inicial</li>
+  <li><a href="#Projects">Sobre o que se trata</a></li>
+  <li><a href="#Contacts">Endereços para contato</a></li>
   </ul>
    <h2 id="Homepage">Página inicial</h2>
 <p>Seja bem-vinde ao projeto da <a href="https://github.com/Silky-number8">Sorcha</a>.</p>
