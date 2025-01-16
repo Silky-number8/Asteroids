@@ -3,7 +3,7 @@
 <html lang="en-US">
  <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="widht=device-widht">
+  <meta name="viewport" content="widht=device-width">
  </head>
   <body>
 <p>Neste arquivo estou criando um link para</p>
@@ -17,7 +17,7 @@
     src="Images/Wizard.png"
     alt="Um desenho de um sapo feiticeiro encima de uma casinha de cogumelo"
     width="200"
-    heigth="178"/> </a>
+    height="178"/> </a>
    <p>Afim de se comunicar comigo? Mande um email para <a href="mailto:sorchagalera@gmail.com">Sorcha</a> :)</p>
   </body>
 </html>
