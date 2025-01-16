@@ -14,8 +14,10 @@
   </a>
    <a 
     <img
-    src="C:\Users\sorch\Downloads\This one is a wizard.png"
-    alt="Um desenho de um sapo feiticeiro encima de uma casinha de cogumelo"/> </a>
+    src="https://raw.githubusercontent.com/mdn/learning-area/master/html/multimedia-and-embedding/images-in-html/dinosaur_small.jpg"
+    alt="Um desenho de um sapo feiticeiro encima de uma casinha de cogumelo"
+    width="200"
+    heigth="178"/> </a>
    <p>Afim de se comunicar comigo? Mande um email para <a href="mailto:sorchagalera@gmail.com">Sorcha</a> :)</p>
   </body>
 </html>
