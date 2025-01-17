@@ -32,8 +32,8 @@
    <p>Após trocar de computador tive interesse em aprender a programar e formatar textos em HTML, este é o projeto em que coloco isso em prática. À media em que avanço no assunto tento deixar a página mais dinâmica e maior em conteúdo</p>
    
    <h2 id="Contacts">Endereços para contato</h2>
-   <p>Me mande um <a href="mailto:sorchagalera@gmail.com">Email</a>.</p>
-   <p>Me siga no <a href="https://Bsky.app/profile/sgmushroom.bsky.social">Bluesky</a>.</p>
-   <p>Ou no <a href="https://www.Instagram.com/sorchagalera660/">Instagram</a>.</p>
+   <p>Me mande um <a href="mailto:sorchagalera@gmail.com" disabled="disabled">Email</a>.</p>
+   <p>Me siga no <a href="https://Bsky.app/profile/sgmushroom.bsky.social" disabled="disabled">Bluesky</a>.</p>
+   <p>Ou no <a href="https://www.Instagram.com/sorchagalera660/" disabled="disabled">Instagram</a>.</p>
   </body>
 </html>
